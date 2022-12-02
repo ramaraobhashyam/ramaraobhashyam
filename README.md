@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science and ML.
 - 💞️ I’m looking to collaborate on ideas and develop frameworks for business problems.
 - 📫 How to reach me: ramarao.ap@gmail.com
-- 😃 I like to explore on the real world data problems and their solutions. 
+- 😃 I'd like to explore on real world data problems and their solutions. 
 
 <!---
 ramaraobhashyam/ramaraobhashyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
